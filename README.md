@@ -1,6 +1,17 @@
 # Mahvish-skincare-store
 Shopify assignment project showcasing Mahvish Skincare Store. Features include homepage design, logo integration, benefits section, and functional checkout flow tested with Bogus Gateway. The store demonstrates branding polish, professional layout, and recruiter‑ready presentation.
 
+## Overview
+Mahvish Skincare Store is a Shopify assignment project designed to demonstrate professional branding, clean layout, and functional e‑commerce workflows. The store includes a customized homepage, logo integration, and a benefits section, all packaged with recruiter‑ready presentation and technical polish.
+
+## Features
+- Homepage with hero banner and benefits section
+- Logo integration for consistent branding
+- Functional checkout flow tested with Bogus Gateway
+- Password‑protected development store access
+- Professional layout optimized for recruiter review
+- Screenshots showcasing homepage and checkout flow
+
 
 ## Live Website
 [View Store](https://mahvish-skincare.myshopify.com/)
