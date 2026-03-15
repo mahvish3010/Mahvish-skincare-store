@@ -23,13 +23,7 @@ Mahvish Skincare Store is a Shopify assignment project designed to demonstrate p
 ## Screenshots
 
 ### Homepage
-![Homepage Screenshot](screenshots/homepage.png)
-![Homepage Screenshot](screenshots/homepage2.png)
 
 ### cart
-![Checkout Screenshot](screenshots/cart.png)
 
 ### Checkout Flow
-![Checkout Screenshot](screenshots/checkout1.png)
-![Checkout Screenshot](screenshots/checkout2.png)
-![Checkout Screenshot](screenshots/checkout3.png)
