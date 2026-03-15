@@ -3,6 +3,6 @@ Shopify assignment project showcasing Mahvish Skincare Store. Features include h
 
 
 ## Live Website
-[View Store](https://yourstore.myshopify.com)
+[View Store](https://mahvish-skincare.myshopify.com/)
 
-⚠️ Note: This store is password-protected. Use password: YOURPASSWORD to view.
+⚠️ Note: This store is password-protected. Use password: ubaoth to view.
