@@ -16,8 +16,8 @@ Mahvish Skincare Store is a Shopify assignment project designed to demonstrate p
 ## Live Website
 [View Store](https://mahvish-skincare.myshopify.com/)
 
-⚠️ Note: This store is password-protected. Use password: ubaoth to view.
 
+⚠️ Note: This store is password-protected. Use password: ubaoth to view.
 
 
 ## Screenshots
